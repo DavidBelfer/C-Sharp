@@ -1,0 +1,24 @@
+
+namespace PrimeraAplicacion
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Imcremento de variable en X");
+            int x = 10;
+            int z = x++;
+            Console.WriteLine(x);
+            Console.WriteLine(z);
+            Console.WriteLine("----------------");
+            Console.WriteLine("Incremento de varible en Z");
+            x = 15;
+            z = ++x;
+            Console.WriteLine(x);
+            Console.WriteLine(z);
+            Console.WriteLine("----------------");
+
+
+        }
+    }
+}
