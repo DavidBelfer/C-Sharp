@@ -1,3 +1,6 @@
+
+// Ejercicio que genera dos variables y suma 1 valor a una variable y resta un valor a la otra variable
+
 using System;
 
 namespace MiTest
@@ -18,3 +21,4 @@ namespace MiTest
         }
     }
 }
+
